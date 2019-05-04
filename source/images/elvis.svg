@@ -16,8 +16,8 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="drawing.svg"
-   inkscape:export-filename="C:\Users\Matt\Workspace\affableally.com\icon.png"
+   sodipodi:docname="elvis.svg"
+   inkscape:export-filename="C:\Users\Matt\Workspace\affableally.com\source\images\elvis.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -54,9 +54,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="117.55758"
-     inkscape:cy="181.44067"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="145.95356"
+     inkscape:cy="115.3122"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -80,7 +80,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
