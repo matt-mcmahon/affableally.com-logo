@@ -136,6 +136,19 @@
          stdDeviation="3.2397175"
          id="feGaussianBlur1242" />
     </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter934"
+       x="-0.050270285"
+       width="1.1005406"
+       y="-0.15081083"
+       height="1.3016217">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.2936365"
+         id="feGaussianBlur936" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -233,7 +246,7 @@
            id="path891"
            inkscape:connector-curvature="0" />
         <path
-           style="display:inline;fill:#fff5ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:32.72160339;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           style="display:inline;fill:#fff2f6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:32.72160339;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
            id="path957"
            sodipodi:type="arc"
            sodipodi:cx="727.60968"
@@ -371,7 +384,7 @@
          inkscape:label="Colors"
          style="display:inline">
         <ellipse
-           style="fill:#fff5ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:30.26459312;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           style="fill:#fff2f6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:30.26459312;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
            id="ellipse1103"
            cx="-798.8446"
            cy="387.47339"
@@ -450,6 +463,38 @@
              transform="scale(-1,1)" />
         </g>
       </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer8"
+       inkscape:label="Hands">
+      <path
+         style="fill:#fff2f6;fill-opacity:1;stroke:#800080;stroke-width:30;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 871.59131,1205.0555 c -25.02178,36.7821 -13.61657,89.7871 -4.72123,133.3748 2.28761,11.2094 5.11867,24.6161 14.55713,31.0814 23.75035,16.2689 60.77504,14.4705 89.50091,12.5784 30.30938,-1.9965 60.93378,-15.7635 85.97158,-24.7749 37.4284,-13.471 24.2684,-78.0813 20.0652,-117.6374 -4.4598,-41.9709 -43.1051,-31.169 -76.3729,-35.6628 -7.11917,-39.7155 -54.45878,-28.1009 -85.72273,-17.8445 -14.95542,4.9063 -34.425,5.8711 -43.27796,18.885 z"
+         id="path70"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssssscss" />
+      <path
+         style="opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter934)"
+         d="m 928.63591,1232.7743 c 4.75958,-0.025 -1.43362,17.2306 1.77675,9.218 9.0516,-22.5915 63.49319,-19.569 59.98394,-26.4665 -29.4472,-1.478 -38.91746,0.9947 -61.76069,17.2485 z"
+         id="path892"
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.0032524,0,0,-0.93331317,1922.9402,2365.4055)"
+         sodipodi:nodetypes="cscc" />
+      <path
+         sodipodi:nodetypes="cccc"
+         transform="matrix(-1.8930295,0.22886884,-0.10286903,-0.8508546,2954.4062,2084.1264)"
+         inkscape:connector-curvature="0"
+         id="path946"
+         d="m 932.24211,1212.3509 c -7.98821,8.2712 -24.16803,34.104 0.91997,43.036 -5.03887,-40.2186 57.04113,-25.2044 65.78827,-36.6355 -28.10451,-17.1909 -64.9856,12.0875 -66.70824,-6.4005 z"
+         style="opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter934)" />
+      <path
+         style="opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter934)"
+         d="m 933.20044,1213.4314 c -4.70561,4.0116 -8.85172,29.5843 -1.91317,62.8447 -10.6475,-63.1817 57.45028,-38.7231 67.66308,-57.5247 -29.26579,-12.2977 -67.5305,15.845 -65.74991,-5.32 z"
+         id="path948"
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.8930295,0.22886884,-0.10286903,-0.8508546,2958.6068,2135.5842)"
+         sodipodi:nodetypes="cccc" />
     </g>
   </g>
 </svg>
