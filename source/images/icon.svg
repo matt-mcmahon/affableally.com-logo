@@ -27,7 +27,7 @@
        inkscape:collect="always"
        id="linearGradient888">
       <stop
-         style="stop-color:#ffb3ff;stop-opacity:1"
+         style="stop-color:#ff91ff;stop-opacity:1"
          offset="0"
          id="stop884" />
       <stop
@@ -144,7 +144,7 @@
        fx="1069.4865"
        fy="-469.93112"
        r="598.00139"
-       gradientTransform="matrix(0.46872793,0.21307077,-0.0992805,0.21840417,547.70371,-383.32389)"
+       gradientTransform="matrix(0.34489841,0.17562646,-0.10026431,0.19690087,679.67537,-353.38278)"
        gradientUnits="userSpaceOnUse" />
     <filter
        inkscape:collect="always"
@@ -171,7 +171,7 @@
      inkscape:cx="993.30032"
      inkscape:cy="727.45407"
      inkscape:document-units="px"
-     inkscape:current-layer="layer8"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
