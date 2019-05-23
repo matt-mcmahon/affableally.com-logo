@@ -10,14 +10,14 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="5494.8462"
-   height="2067.594"
-   viewBox="0 0 5494.8462 2067.594"
+   width="5500"
+   height="2200"
+   viewBox="0 0 5500 2200"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="logo-narrow-no-icon.svg"
-   inkscape:export-filename="C:\Users\Matt\Workspace\affableally.com\src\images\logo\logo-narrow-no-icon.png"
+   sodipodi:docname="logo-twitter-banner.svg"
+   inkscape:export-filename="C:\Users\Matt\Workspace\affableally.com\src\images\logo\logo-twitter-banner.png"
    inkscape:export-xdpi="48"
    inkscape:export-ydpi="48">
   <defs
@@ -200,7 +200,7 @@
      inkscape:cx="485.73116"
      inkscape:cy="2256.9774"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="svg8"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
@@ -256,17 +256,16 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="DotCom"
-     transform="translate(-10.152908,-41.962078)" />
+     transform="translate(-10.152908,90.443928)" />
   <g
      inkscape:label="AffableAlly"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-2132.0865,1695.8393)"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     transform="translate(-2132.0865,1828.2453)"
+     style="display:inline">
     <g
        id="g2091"
-       transform="matrix(6.6734471,0,0,7.5051013,-383.29021,-1769.7296)"
+       transform="matrix(6.6734471,0,0,7.5051013,-380.71325,-1719.7296)"
        style="fill:url(#radialGradient98);fill-opacity:1">
       <g
          id="g965"
@@ -342,7 +341,7 @@
   <g
      id="g4691"
      style="opacity:1;fill:#800080;fill-opacity:0.13500001"
-     transform="translate(-10.152908,-41.962078)">
+     transform="translate(-7.5759449,140.44393)">
     <path
        inkscape:connector-curvature="0"
        id="path979"
