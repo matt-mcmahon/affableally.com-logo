@@ -27,9 +27,7 @@ font-family: 'Kirang Haerang', cursive;
 ```
 
 ```css
-<style>
 @import url('https://fonts.googleapis.com/css?family=Allura|Cookie|Courgette|Kalam:300,400,700|Lobster|Ma+Shan+Zheng|Marck+Script|Philosopher:400,400i,700,700i|Playball|Sofia|Yellowtail&display=swap&subset=chinese-simplified,cyrillic,cyrillic-ext,devanagari,latin-ext,vietnamese');
-</style>
 ```
 
 ```css
@@ -44,4 +42,20 @@ font-family: 'Playball', cursive;
 font-family: 'Allura', cursive;
 font-family: 'Ma Shan Zheng', cursive;
 font-family: 'Sofia', cursive;
+```
+
+
+## HTML
+
+```html
+<link href="https://fonts.googleapis.com/css?family=Lobster|Open+Sans:400,400i,700,700i&display=swap&subset=cyrillic,cyrillic-ext,latin-ext,vietnamese" rel="stylesheet">
+```
+
+```css
+@import url('https://fonts.googleapis.com/css?family=Lobster|Open+Sans:400,400i,700,700i&display=swap&subset=cyrillic,cyrillic-ext,latin-ext,vietnamese');
+```
+
+```css
+--font-body: "Open Sans", sans-serif;
+--font-header: "Lobster", cursive;
 ```
