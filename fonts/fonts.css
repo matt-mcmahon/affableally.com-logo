@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css?family=Irish+Grover|Joti+One|Kirang+Haerang|Lakki+Reddy|Ravi+Prakash|Risque&display=swap&subset=korean,latin-ext,telugu");
+@import url('https://fonts.googleapis.com/css?family=Allura|Cookie|Courgette|Kalam:300,400,700|Lobster|Ma+Shan+Zheng|Marck+Script|Philosopher:400,400i,700,700i|Playball|Sofia|Yellowtail&display=swap&subset=chinese-simplified,cyrillic,cyrillic-ext,devanagari,latin-ext,vietnamese');
+
+:root {
+  --affable1: "Joti One", cursive;
+  --affable2: "Irish Grover", cursive;
+  --affable3: "Ravi Prakash", cursive;
+  --affable4: "Lakki Reddy", cursive;
+  --affable5: "Risque", cursive;
+  --affable6: "Kirang Haerang", cursive;
+
+  --ally1: "Lobster", cursive;
+  --ally2: "Courgette", cursive;
+  --ally3: "Kalam", cursive;
+  --ally4: "Cookie", cursive;
+  --ally6: "Philosopher", sans-serif;
+  --ally5: "Marck Script", cursive;
+  --ally7: "Yellowtail", cursive;
+  --ally8: "Playball", cursive;
+  --ally9: "Allura", cursive;
+  --allyA: "Ma Shan Zheng", cursive;
+  --allyB: "Sofia", cursive;
+}
+
+h1 span {
+  display: inline-block;
+}
+
+.font1 > .affable { font-family: var(--affable1); }
+.font2 > .affable { font-family: var(--affable2); }
+.font3 > .affable { font-family: var(--affable3); }
+.font4 > .affable { font-family: var(--affable4); }
+.font5 > .affable { font-family: var(--affable5); }
+.font6 > .affable { font-family: var(--affable6); }
+.font7 > .affable { font-family: var(--affable2); }
+.font8 > .affable { font-family: var(--affable2); }
+.font9 > .affable { font-family: var(--affable2); }
+.fontA > .affable { font-family: var(--affable2); }
+.fontB > .affable { font-family: var(--affable2); }
+
+.font1 > .ally { font-family: var(--ally1); font-size:1.5em; font-weight: bold; }
+.font2 > .ally { font-family: var(--ally2); font-size:1.5em; font-weight: bold; }
+.font3 > .ally { font-family: var(--ally3); font-size:1.5em; font-weight: bold; }
+.font4 > .ally { font-family: var(--ally4); font-size:1.5em; font-weight: bold; }
+.font5 > .ally { font-family: var(--ally5); font-size:1.5em; font-weight: bold; top: 0.5em}
+.font6 > .ally { font-family: var(--ally6); font-size:1.5em; font-weight: bold; }
+.font7 > .ally { font-family: var(--ally7); font-size:1.5em; font-weight: bold; }
+.font8 > .ally { font-family: var(--ally8); font-size:1.5em; font-weight: bold; }
+.font9 > .ally { font-family: var(--ally9); font-size:1.5em; font-weight: bold; }
+.fontA > .ally { font-family: var(--allyA); font-size:1.5em; font-weight: bold; }
+.fontB > .ally { font-family: var(--allyB); font-size:1.5em; font-weight: bold; }
