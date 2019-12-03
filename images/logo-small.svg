@@ -6,12 +6,12 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   enable-background="new"
+   style="enable-background:new"
    id="svg8"
    version="1.1"
-   viewBox="0 0 1600 1600"
-   height="1600"
-   width="1600">
+   viewBox="0 0 1199.4487 1202.4988"
+   height="1202.4988"
+   width="1199.4487">
   <defs
      id="defs2">
     <linearGradient
@@ -58,7 +58,7 @@
     </filter>
     <filter
        height="1.0652163"
-       y="-0.03260813"
+       y="-0.032608129"
        width="1.0379751"
        x="-0.018987533"
        id="filter1160"
@@ -80,7 +80,7 @@
     </filter>
     <filter
        height="1.0671209"
-       y="-0.033560472"
+       y="-0.033560473"
        width="1.0373578"
        x="-0.018678889"
        id="filter1208"
@@ -91,9 +91,9 @@
     </filter>
     <filter
        height="1.111719"
-       y="-0.055859503"
-       width="1.0531159"
-       x="-0.026557957"
+       y="-0.055859502"
+       width="1.0531158"
+       x="-0.026557958"
        id="filter1226"
        style="color-interpolation-filters:sRGB">
       <feGaussianBlur
@@ -102,7 +102,7 @@
     </filter>
     <filter
        height="1.3016217"
-       y="-0.15081083"
+       y="-0.15081082"
        width="1.1005406"
        x="-0.050270285"
        id="filter934"
@@ -114,7 +114,7 @@
     <radialGradient
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.34489841,0.17562646,-0.10026431,0.19690087,679.67537,-353.38278)"
-       r="598.00139"
+       r="598.0014"
        fy="-469.93112"
        fx="1069.4865"
        cy="-469.93112"
@@ -123,9 +123,9 @@
        xlink:href="#linearGradient888" />
     <filter
        height="1.0711504"
-       y="-0.03557518"
-       width="1.0362162"
-       x="-0.018108119"
+       y="-0.035575181"
+       width="1.0362163"
+       x="-0.018108118"
        id="filter957"
        style="color-interpolation-filters:sRGB">
       <feGaussianBlur
@@ -146,6 +146,7 @@
     </rdf:RDF>
   </metadata>
   <g
+     transform="translate(-200.27564,-198.7506)"
      style="display:inline"
      id="layer5">
     <g
@@ -163,7 +164,7 @@
         <path
            id="path981"
            d="m 502.32959,-389.88638 24.76196,72.35756 123.53891,176.25934 163.66939,-1.57374 114.69238,-180.98058 26.28019,-68.27302 c -143.14043,-34.84396 -311.28611,-39.58035 -452.94283,2.21044 z"
-           style="display:inline;fill:#fff2f6;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
+           style="display:inline;fill:#fff2f6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       </g>
       <g
          id="g1184"

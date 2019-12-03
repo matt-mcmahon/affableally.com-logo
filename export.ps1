@@ -18,6 +18,7 @@ ForEach ($SIZE in $SIZES) {
 ForEach ($SIZE in ('large', 'small', 'wide', 'twitter-banner', 'wide-url-no-icon')) {
   inkscape `
     --without-gui `
+    --export-area-drawing `
     --export-plain-svg="./images/${PREFIX}-${SIZE}.svg" `
     --file="./source/${PREFIX}-${SIZE}.svg"
 }
