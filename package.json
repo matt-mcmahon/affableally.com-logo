@@ -1,0 +1,20 @@
+{
+  "name": "logo",
+  "version": "0.0.0",
+  "description": "Logo for the Affable Ally Podcast",
+  "main": "index.js",
+  "scripts": {
+    "build": "powershell.exe ./export.ps1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matt-mcmahon/affableally.com-logo.git"
+  },
+  "keywords": [],
+  "author": "Matt McMahon <contact@matt-mcmahon.com> (https://matt-mcmahon.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matt-mcmahon/affableally.com-logo/issues"
+  },
+  "homepage": "https://github.com/matt-mcmahon/affableally.com-logo#readme"
+}
