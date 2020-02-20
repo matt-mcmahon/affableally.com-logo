@@ -18,6 +18,7 @@ WIDTH,HEIGHT,SOURCE,TARGET
 152,152,small,icon
 180,180,small,apple-touch-icon.png
 192,192,small,android-chrome
+256,256,small,icon
 300,300,large,icon
 310,150,wide,mstile
 310,310,large,mstile
